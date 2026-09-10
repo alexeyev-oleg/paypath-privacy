@@ -1,0 +1,7 @@
+# Публикуется через GitHub Pages: Settings → Pages → ветка main, папка /docs.
+# В этой папке лежит ТОЛЬКО то, что можно показывать всем: index.md —
+# политика конфиденциальности, ссылку на которую требует Google Play.
+# Внутренние заметки живут в /notes, чтобы не попасть на сайт.
+title: PayPath
+description: Локальный учёт кредитов для Android
+theme: jekyll-theme-minimal
