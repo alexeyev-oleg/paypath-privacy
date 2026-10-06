@@ -1,11 +1,11 @@
 ---
 title: PayPath — политика конфиденциальности
-description: PayPath не собирает данные. Всё остаётся на устройстве.
+description: Данные PayPath лежат на вашем устройстве. Наружу уходит только семейная копия в ваш Google Drive — и только если вы её включили.
 ---
 
 # Политика конфиденциальности PayPath
 
-**Приложение:** PayPath (`com.paypath.paypath`)
+**Приложение:** PayPath (`com.crazyduck.paypath`)
 **Разработчик:** CrazyDuck
 **Связь:** support.crazyduck@gmail.com
 **Дата вступления в силу:** 23 сентября 2026
@@ -112,7 +112,7 @@ support.crazyduck@gmail.com
 
 # PayPath Privacy Policy
 
-**App:** PayPath (`com.paypath.paypath`)
+**App:** PayPath (`com.crazyduck.paypath`)
 **Developer:** CrazyDuck
 **Contact:** support.crazyduck@gmail.com
 **Effective date:** 23 September 2026
